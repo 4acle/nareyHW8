@@ -1,0 +1,2 @@
+#!/bin/bash
+g++ -o test_analog test_analog.cpp AnalogIn.cpp
